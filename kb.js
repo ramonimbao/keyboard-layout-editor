@@ -73,8 +73,8 @@
 		$scope.meta = {};
 
 		// Options
-		$scope.sizeStep = 0.0125;
-		$scope.moveStep = 0.0125;
+		$scope.sizeStep = 0.25;
+		$scope.moveStep = 0.25;
 		$scope.rotateStep = 15;
 
 		// The keyboard data
