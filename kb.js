@@ -1097,8 +1097,8 @@
 			}
 			transaction("size", function() {
 				$scope.selectedKeys.forEach(function(selectedKey) {
-					update(selectedKey, 'width', validate(selectedKey, 'width', Math.round10(Math.max(1,selectedKey.width + x),-4)));
-					update(selectedKey, 'height', validate(selectedKey, 'height', Math.round10(Math.max(1,selectedKey.height + y),-4)));
+					update(selectedKey, 'width', validate(selectedKey, 'width', Math.round10(Math.max(0.5,selectedKey.width + x),-4)));
+					update(selectedKey, 'height', validate(selectedKey, 'height', Math.round10(Math.max(0.5,selectedKey.height + y),-4)));
 					renderKey(selectedKey);
 				});
 				$scope.multi = angular.copy($scope.selectedKeys.last());
