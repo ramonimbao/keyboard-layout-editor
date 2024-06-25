@@ -1,5 +1,14 @@
 [
 	{
+		"name" : "VIA Colors",
+		"description" : "Colors to be used for VIA JSON layouts."
+		"colors": [
+			{ "name": "Alphas", "r":204, "g":204, "b":204 },
+			{ "name": "Mods", "r":170, "g":170, "b":170 },
+			{ "name": "Accents", "r":119, "g":119, "b":119 }
+		]
+	},
+	{
 		"name" : "GMK / Uniqey Colors",
 		"href" : "https://uniqey.zendesk.com/hc/en-us/articles/208727129-Which-colors-are-available-for-the-keycaps-",
 		"description" : "These are representations of the different keycap colors available from GMK / UniqeyPlastics.  The colors were sampled from sample keycaps using an X-Rite ColorMunki photospectrometer, and converted to sRGB (D65) using the formulas on Bruce Lindbloom's website.  The representations you see here will only be accurate if your monitor is properly calibrated to display sRGB colors.",
