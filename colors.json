@@ -2,7 +2,7 @@
 	{
 		"name" : "VIA Colors",
 		"href" : "https://www.caniusevia.com/docs/layouts#kle-json-rules",
-		"description" : "Colors to be used for VIA JSON layouts."
+		"description" : "Colors to be used for VIA JSON layouts.",
 		"colors": [
 			{ "name": "Alphas", "r":204, "g":204, "b":204 },
 			{ "name": "Mods", "r":170, "g":170, "b":170 },
