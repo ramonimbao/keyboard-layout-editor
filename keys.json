@@ -25,7 +25,7 @@
 	],
 	"Add Split Left Shift": [
 		{ "labels": ["Shift"], "width": 1.25 },
-		{ "labels": ["<", null, null, null, null, null, ">"] }
+		{ "labels": ["ISO NUBS"] }
 	],
   	"Add 'Status LEDs'" : [
     		{ "textColor": [null, "#ff0000", null, null, null, null, null, "#000000"], "textSize": [0,3,0,0,0,0,0,1], "labels": [null, "<i class='fa fa-circle'></i>", null, null, null, null, null, "NUM LOCK"], "decal": true },
