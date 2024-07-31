@@ -3,9 +3,25 @@
 	"Add 'Big-Ass Enter' Key" : { "width":1.5, "width2":2.25, "height":2, "height2":1, "x":0.75, "x2":-0.75, "y2":1 },
 	"Add 'Stepped Caps-Lock' Key" : { "width":1.25, "width2":1.75, "stepped":true },
 	"Add 'Center-stepped' Key" : { "width": 1, "width2":1.5, "x":0.25, "x2":-0.25, "stepped":true },
-  "Add 'Status LEDs'" : [
-    { "textColor": [null, "#ff0000", null, null, null, null, null, "#000000"], "textSize": [0,3,0,0,0,0,0,1], "labels": [null, "<i class='fa fa-circle'></i>", null, null, null, null, null, "NUM LOCK"], "decal": true },
-    { "textColor": [null, "#800000", null, null, null, null, null, "#000000"], "textSize": [0,3,0,0,0,0,0,1], "labels": [null, "<i class='fa fa-circle'></i>", null, null, null, null, null, "CAPS LOCK"], "decal": true },
-    { "textColor": [null, "#800000", null, null, null, null, null, "#000000"], "textSize": [0,3,0,0,0,0,0,1], "labels": [null, "<i class='fa fa-circle'></i>", null, null, null, null, null, "SCROLL LOCK"], "decal": true }
-  ]
+	"Add F13 F-row" : [
+		{ "labels": ["Esc"] },
+		{ "labels": ["F1"], "x": 0.25" },
+		{ "labels": ["F2"] },
+		{ "labels": ["F3"] },
+		{ "labels": ["F4"] },
+		{ "labels": ["F5"], "x": 0.25" },
+		{ "labels": ["F6"] },
+		{ "labels": ["F7"] },
+		{ "labels": ["F8"] },
+		{ "labels": ["F9"], "x": 0.25" },
+		{ "labels": ["F10"] },
+		{ "labels": ["F11"] },
+		{ "labels": ["F12"] },
+		{ "labels": ["F13"], "x": 0.25" }
+	],
+  	"Add 'Status LEDs'" : [
+    		{ "textColor": [null, "#ff0000", null, null, null, null, null, "#000000"], "textSize": [0,3,0,0,0,0,0,1], "labels": [null, "<i class='fa fa-circle'></i>", null, null, null, null, null, "NUM LOCK"], "decal": true },
+    		{ "textColor": [null, "#800000", null, null, null, null, null, "#000000"], "textSize": [0,3,0,0,0,0,0,1], "labels": [null, "<i class='fa fa-circle'></i>", null, null, null, null, null, "CAPS LOCK"], "decal": true },
+    		{ "textColor": [null, "#800000", null, null, null, null, null, "#000000"], "textSize": [0,3,0,0,0,0,0,1], "labels": [null, "<i class='fa fa-circle'></i>", null, null, null, null, null, "SCROLL LOCK"], "decal": true }
+  	]
 }
