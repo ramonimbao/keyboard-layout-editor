@@ -6,18 +6,39 @@
 	"Add F13 F-row" : [
 		{ "labels": ["Esc"] },
 		{ "labels": ["F1"], "x": 0.25 },
-		{ "labels": ["F2"] },
-		{ "labels": ["F3"] },
-		{ "labels": ["F4"] },
-		{ "labels": ["F5"], "x": 0.25 },
-		{ "labels": ["F6"] },
-		{ "labels": ["F7"] },
-		{ "labels": ["F8"] },
-		{ "labels": ["F9"], "x": 0.25 },
-		{ "labels": ["F10"] },
-		{ "labels": ["F11"] },
-		{ "labels": ["F12"] },
-		{ "labels": ["F13"], "x": 0.25 }
+		{ "labels": ["F2"], "x": 0.25 },
+		{ "labels": ["F3"], "x": 0.25 },
+		{ "labels": ["F4"], "x": 0.25 },
+		{ "labels": ["F5"], "x": 0.5 },
+		{ "labels": ["F6"], "x": 0.5 },
+		{ "labels": ["F7"], "x": 0.5 },
+		{ "labels": ["F8"], "x": 0.5 },
+		{ "labels": ["F9"], "x": 0.75 },
+		{ "labels": ["F10"], "x": 0.75 },
+		{ "labels": ["F11"], "x": 0.75 },
+		{ "labels": ["F12"], "x": 0.75 },
+		{ "labels": ["F13"], "x": 1 }
+	],
+	"Add Split Backspace": [
+		{ "labels": ["Back space"] },
+		{ "labels": ["Back space"] },
+	],
+	"Add Split Left Shift": [
+		{ "labels": ["Shift"], "width": 1.25 },
+		{ "labels": ["<", null, null, null, null, null, ">"] }
+	],
+	"Add Split Right Shift": [
+		{ "labels": ["Shift"], "width": 1.75 },
+		{ "labels": ["Fn"] }
+	],
+	"Add Tsangan Bottom Row": [
+		{ "labels": ["Ctrl"], "width": 1.5 },
+		{ "labels": ["Win"] },
+		{ "labels": ["Alt"], "width": 1.5 },
+		{ "labels": [null], "width": 7 },
+		{ "labels": ["Alt"], "width": 1.5 },
+		{ "labels": ["Win"] },
+		{ "labels": ["Ctrl"], "width": 1.5 },
 	],
   	"Add 'Status LEDs'" : [
     		{ "textColor": [null, "#ff0000", null, null, null, null, null, "#000000"], "textSize": [0,3,0,0,0,0,0,1], "labels": [null, "<i class='fa fa-circle'></i>", null, null, null, null, null, "NUM LOCK"], "decal": true },
