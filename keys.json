@@ -21,11 +21,24 @@
 	],
 	"Add Split Backspace": [
 		{ "labels": ["Back space"] },
-		{ "labels": ["Back space"] },
+		{ "labels": ["Back space"] }
 	],
 	"Add Split Left Shift": [
 		{ "labels": ["Shift"], "width": 1.25 },
-		{ "labels": ["ISO NUBS"] }
+		{ "labels": ["<", null, null, null, null, null, ">"] }
+	],
+	"Add Split Right Shift": [
+		{ "labels": ["Shift"], "width": 1.75 },
+		{ "labels": ["Fn"] }
+	],
+	"Add Tsangan Bottom Row": [
+		{ "labels": ["Ctrl"], "width": 1.5 },
+		{ "labels": ["Win"] },
+		{ "labels": ["Alt"], "width": 1.5 },
+		{ "labels": [null], "width": 7 },
+		{ "labels": ["Alt"], "width": 1.5 },
+		{ "labels": ["Win"] },
+		{ "labels": ["Ctrl"], "width": 1.5 }
 	],
   	"Add 'Status LEDs'" : [
     		{ "textColor": [null, "#ff0000", null, null, null, null, null, "#000000"], "textSize": [0,3,0,0,0,0,0,1], "labels": [null, "<i class='fa fa-circle'></i>", null, null, null, null, null, "NUM LOCK"], "decal": true },
