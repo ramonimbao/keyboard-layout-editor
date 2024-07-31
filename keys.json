@@ -33,7 +33,7 @@
 	],
 	"Add ISO Combo": [
 		{ "labels": ["Enter"], "width":1.25, "width2":1.5, "height":2, "height2":1, "x":1, "x2":-0.25, "y2":0 },
-		{ "labels": ["~", null, null, null, null, null, "#"], "x":-1, "y":1 }
+		{ "labels": ["~", null, null, null, null, null, "#"], "x":-1.5, "y":1 }
 	],
 	"Add Tsangan Bottom Row": [
 		{ "labels": ["Ctrl"], "width": 1.5 },
