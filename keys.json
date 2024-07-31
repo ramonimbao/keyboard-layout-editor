@@ -1,7 +1,7 @@
 {
-	"Add 'ISO Enter' Key" : { "width":1.25, "width2":1.5, "height":2, "height2":1, "x":0.25, "x2":-0.25, "y2":0 },
-	"Add 'Big-Ass Enter' Key" : { "width":1.5, "width2":2.25, "height":2, "height2":1, "x":0.75, "x2":-0.75, "y2":1 },
-	"Add 'Stepped Caps-Lock' Key" : { "width":1.25, "width2":1.75, "stepped":true },
+	"Add 'ISO Enter' Key" : { "labels": ["Enter"], "width":1.25, "width2":1.5, "height":2, "height2":1, "x":0.25, "x2":-0.25, "y2":0 },
+	"Add 'Big-Ass Enter' Key" : { "labels": ["Enter"], "width":1.5, "width2":2.25, "height":2, "height2":1, "x":0.75, "x2":-0.75, "y2":1 },
+	"Add 'Stepped Caps-Lock' Key" : { "labels": ["Caps Lock"], "width":1.25, "width2":1.75, "stepped":true },
 	"Add 'Center-stepped' Key" : { "width": 1, "width2":1.5, "x":0.25, "x2":-0.25, "stepped":true },
 	"Add F13 F-row" : [
 		{ "labels": ["Esc"] },
