@@ -45,10 +45,10 @@
 		{ "labels": ["Ctrl"], "width": 1.5 }
 	],
 	"Add Arrow Cluster": [
-		{ "labels": ["\u2191"], "x":1 },
-		{ "labels": ["\u2190"], "y":1 },
-		{ "labels": ["\u2193"] },
-		{ "labels": ["\u2192"] }
+		{ "labels": ["Up"], "x":1 },
+		{ "labels": ["Left"], "y":1 },
+		{ "labels": ["Down"] },
+		{ "labels": ["Right"] }
 	],
   	"Add 'Status LEDs'" : [
     		{ "textColor": [null, "#ff0000", null, null, null, null, null, "#000000"], "textSize": [0,3,0,0,0,0,0,1], "labels": [null, "<i class='fa fa-circle'></i>", null, null, null, null, null, "NUM LOCK"], "decal": true },
