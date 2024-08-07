@@ -15,7 +15,7 @@
 		{ "labels": ["F8"], "x": 0.5 },
 		{ "labels": ["F9"], "x": 0.75 },
 		{ "labels": ["F10"], "x": 0.75 },
-		{ "labels": ["F11"], "x": 0.75 },
+		{ "labels": ["F11"], "x": 0.75 }
 		{ "labels": ["F12"], "x": 0.75 },
 		{ "labels": ["F13"], "x": 1 }
 	],
@@ -43,6 +43,12 @@
 		{ "labels": ["Alt"], "width": 1.5 },
 		{ "labels": ["Win"] },
 		{ "labels": ["Ctrl"], "width": 1.5 }
+	],
+	"Add Arrow Cluster": [
+		{ "labels": ["↑"], "x":1 },
+		{ "labels": ["←"], "x":-1, "y":1 },
+		{ "labels": ["↓"], "x":-1, "y":1 },
+		{ "labels": ["→"], "x":-1, "y":1 }
 	],
   	"Add 'Status LEDs'" : [
     		{ "textColor": [null, "#ff0000", null, null, null, null, null, "#000000"], "textSize": [0,3,0,0,0,0,0,1], "labels": [null, "<i class='fa fa-circle'></i>", null, null, null, null, null, "NUM LOCK"], "decal": true },
