@@ -24,11 +24,11 @@
 		{ "labels": ["Back space"] }
 	],
 	"Add Split Left Shift": [
-		{ "labels": ["Shift"], "width": 1.25, "width2": 1.25 },
+		{ "labels": ["Shift"], "width":1.25, "width2":1.25 },
 		{ "labels": ["<", null, null, null, null, null, ">"] }
 	],
 	"Add Split Right Shift": [
-		{ "labels": ["Shift"], "width": 1.75, "width2": 1.75 },
+		{ "labels": ["Shift"], "width":1.75, "width2":1.75 },
 		{ "labels": ["Fn"] }
 	],
 	"Add ISO Combo": [
