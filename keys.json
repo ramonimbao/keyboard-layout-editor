@@ -35,14 +35,24 @@
 		{ "labels": ["Enter"], "width":1.25, "width2":1.5, "height":2, "height2":1, "x":1, "x2":-0.25, "y2":0 },
 		{ "labels": ["~", null, null, null, null, null, "#"], "x":-1.5, "y":1 }
 	],
+	"Add 6.25u Bottom Row": [
+		{ "labels": ["Ctrl"], "width":1.25, "width2":1.25 },
+		{ "labels": ["Win"], "width":1.25, "width2":1.25 },
+		{ "labels": ["Alt"], "width":1.25, "width2":1.25 },
+		{ "labels": [null], "width":6.25, "width2":6.25 },
+		{ "labels": ["Alt"], "width":1.25, "width2":1.25 },
+		{ "labels": ["Win"], "width":1.25, "width2":1.25 },
+		{ "labels": ["Menu"], "width":1.25, "width2":1.25 },
+		{ "labels": ["Ctrl"], "width":1.25, "width2":1.25 }
+	],
 	"Add Tsangan Bottom Row": [
-		{ "labels": ["Ctrl"], "width": 1.5 },
+		{ "labels": ["Ctrl"], "width":1.5, "width2":1.5 },
 		{ "labels": ["Win"] },
-		{ "labels": ["Alt"], "width": 1.5 },
-		{ "labels": [null], "width": 7 },
-		{ "labels": ["Alt"], "width": 1.5 },
+		{ "labels": ["Alt"], "width":1.5, "width2":1.5 },
+		{ "labels": [null], "width":7, "width2":7},
+		{ "labels": ["Alt"], "width":1.5, "width2":1.5 },
 		{ "labels": ["Win"] },
-		{ "labels": ["Ctrl"], "width": 1.5 }
+		{ "labels": ["Ctrl"], "width":1.5, "width2":1.5 }
 	],
   	"Add 'Status LEDs'" : [
     		{ "textColor": [null, "#ff0000", null, null, null, null, null, "#000000"], "textSize": [0,3,0,0,0,0,0,1], "labels": [null, "<i class='fa fa-circle'></i>", null, null, null, null, null, "NUM LOCK"], "decal": true },
