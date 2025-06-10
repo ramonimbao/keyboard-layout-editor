@@ -1,7 +1,7 @@
 {
 	"presets" : [
 		{ "name" : "Blank Layout", "data" : [] },
-		{ "name" : "Alice", "data" : {
+		{ "name" : "Alice", "data" : [
 			[{"y":1.15,"x":0.55},"Esc"],
 			[{"y":-0.95,"x":3.7},"@\n2",{"x":8.45},"_\n-"],
 			[{"y":-0.95,"x":1.7},"~\n`"],
